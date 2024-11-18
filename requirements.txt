@@ -1,0 +1,23 @@
+# Core Python Libraries
+numpy>=1.26.4
+pandas>=2.2.3
+
+# Data Visualization
+matplotlib>=3.9.2
+seaborn>=0.13.2
+
+# NeuralForecast Library
+neuralforecast>=1.7.5
+
+# PyTorch
+torch>=2.5.1
+
+# Jupyter Notebooks
+jupyterlab>=4.2.5
+
+# Performance and Utilities
+scikit-learn>=1.5.2
+scipy>=1.14.1
+tqdm>=4.67.0
+
+pytorch-lightning>=2.4.0
