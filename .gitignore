@@ -1,0 +1,71 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environment
+env/
+venv/
+.venv/
+
+# Python Cache Files
+*.pyo
+*.pyd
+*.pyc
+
+# Environment Variables
+.env
+.env.*
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Data Files
+*.csv
+*.tsv
+*.json
+*.xml
+*.yaml
+*.yml
+*.sqlite3
+*.db
+*.h5
+
+# Machine Learning/Analysis Outputs
+*.pkl
+*.joblib
+*.model
+*.ckpt
+
+# Notebooks with Sensitive Data
+*.ipynb
+# Uncomment the above if you want to exclude all notebooks
+# Otherwise, use this line for backups only:
+# *-backup.ipynb
+
+# Plots and Visualizations
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.svg
+
+# Temporary Files
+*.tmp
+*.temp
+*.~*
+*.bak
+
+# Results/Analysis Outputs
+output/
+results/
+
+# Miscellaneous
+.idea/
+.vscode/
